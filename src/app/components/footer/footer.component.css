@@ -15,6 +15,7 @@ img {
   align-items: center;
   justify-content: center;
   margin: auto;
+  padding-top: 80px;
 }
 
 .footer__info{
