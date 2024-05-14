@@ -1,0 +1,55 @@
+* {
+  color: #010068;
+}
+
+h1 {
+  font-size: larger;
+  font-weight: 500;
+}
+
+.infos__container{
+  background-color: #f2f2f2;
+  width: 100%;
+}
+
+.infos__body {
+  margin: auto;
+  padding: 20px;
+  max-width: 1024px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.infos__agenda{
+  padding-left: 20px;
+  border-left: #010068 5px solid;
+  border-radius: 5px;
+}
+
+.infos__agenda a {
+  padding-left: 3px;
+}
+
+
+
+.infos__celebracaohorario span {
+  font-weight: 400;
+}
+
+.infos__contato {
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 3px;
+}
+
+.infos__contato img {
+  padding-right: 5px;
+}
+
+.infos__contato:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+/*738c2c24*/

@@ -1,0 +1,13 @@
+.card-group__conteiner {
+  padding: 60px 0;
+  background-color: white;
+  margin: auto;
+  width: 90%;
+}
+
+.card-group__body {
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  max-width: 1024px;
+}
