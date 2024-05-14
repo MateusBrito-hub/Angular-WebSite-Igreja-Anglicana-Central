@@ -1,6 +1,7 @@
 .slideshow__container{
   margin: auto;
   width: 90%;
+  max-width: 1024px;
   height: 500px;
   overflow: hidden;
 }
@@ -27,6 +28,7 @@
 .slideshow__manual-navigation{
   position: absolute;
   width: 90%;
+  max-width: 1024px;
   margin-top: -40px;
   display: flex;
   justify-content: center;
@@ -71,6 +73,7 @@
 .slideshow__navigation-auto {
   position: absolute;
   width: 90%;
+  max-width: 1024px;
   margin-top: 460px;
   display: flex;
   justify-content: center;
