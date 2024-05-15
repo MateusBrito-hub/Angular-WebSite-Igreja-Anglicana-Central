@@ -28,6 +28,10 @@
   list-style: none;
 }
 
+.nav-bar__menu>ul>li {
+  padding-right: 15px;
+}
+
 .nav-bar__menu>ul>li>a {
   position: relative;
   color: #010086;
